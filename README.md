@@ -3,8 +3,8 @@
 This project is designed for analysis of an online music store's dataset. By exploring the music playlist database using SQL queries, The goal is to assist the store in understanding its business growth by addressing fundamental questions using SQL-based insights. The dataset provided contains information for understanding the company's operations and customer interactions.
 
 ### Tools
- Database: PostgreSQL
- SQL IDE: pgAdmin 
+- Database: PostgreSQL
+- SQL IDE: pgAdmin 
 
 ### Key Objectives
 - Analyze the music playlist database using SQL, focusing on PostgreSQL syntax
